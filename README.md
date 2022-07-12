@@ -20,6 +20,8 @@ day07 - DCL실습, VIEW
 
 day08 - 프로시저
 
+
+
 ======
 
 mysql
